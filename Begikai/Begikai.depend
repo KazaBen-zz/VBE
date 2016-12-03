@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464025100 source:c:\users\benas\desktop\program\begikai\main.cpp
+	<iostream>
+	<fstream>
+

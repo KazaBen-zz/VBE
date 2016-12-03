@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464015975 source:c:\users\benas\desktop\program\mainai\main.cpp
+	<fstream>
+	<iostream>
+

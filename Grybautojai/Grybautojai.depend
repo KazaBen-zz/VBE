@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465758549 source:c:\users\benas\desktop\program\grybautojai\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465755761 source:c:\users\benas\desktop\program\transportas\main.cpp
+	<iostream>
+	<fstream>
+

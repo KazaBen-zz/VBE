@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465749650 source:c:\users\benas\desktop\program\menu\main.cpp
+	<iostream>
+	<fstream>
+
